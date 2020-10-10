@@ -1,3 +1,7 @@
+/*Se dice que una función es recursiva cuando se
+ define en función de si misma. 
+ No todas la funciones pueden llamarse a si mismas, sino que deben estar diseñadas especialmente para que sean recursivas, de otro modo podrían conducir a bucles infinitos, o a que el programa termine inadecuadamente.
+*/
 #include <iostream>
 using namespace std;
 int temporizador(int n);
