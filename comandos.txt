@@ -1,0 +1,14 @@
+git version
+git init /* solo una vez */
+git status -s
+git add .
+git commit -m "primer_commit"
+
+/* posicionarme en un commit */
+git log --oneline
+git reset --hard 4ecc944
+/*publicar en github*/
+git push
+/* enviar al repositorio local*/
+git pull
+
